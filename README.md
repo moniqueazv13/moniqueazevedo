@@ -1,9 +1,7 @@
 ## <Hello, world! I'm Monique />
-
   [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/moniqueazv13)](https://github.com/moniqueazv13)
-  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/desenvolvedoramobile-monique/)]https://www.linkedin.com/in/desenvolvedoramobile-monique/)
-  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:monique.azevedo13022@gmail.com)](mailto:monique.azevedo13022@gmail.com/)
-
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/desenvolvedoramobile-monique)](https://www.linkedin.com/in/desenvolvedoramobile-monique)
+  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:monique.azv13022@gmail.com)](mailto:monique.azv13022@gmail.com/)
 <br/> Gatos e programação são a minha religião. 🙏 
 
 <br/>.🎮 Gamer Girl.
