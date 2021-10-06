@@ -1,7 +1,6 @@
 ## <Hello, world! I'm Monique />
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/desenvolvedoramobile-monique)](https://www.linkedin.com/in/desenvolvedoramobile-monique)
-  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:monique.azevedo13022@gmail.com)](mailto:monique.azevedo13022@gmail.com/)
-  
+   
 <br/> Gatos e programação são a minha religião. 🙏 
 
 <br/>.🎮 Gamer Girl.
