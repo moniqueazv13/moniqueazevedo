@@ -9,7 +9,7 @@
 <br/>.📚 Bacharel em Ciência da Computação.
 <br/>.🌍 Idiomas: Português, Espanhol e aprendendo Inglês.
 <br/>.🌱 Aprendendo a desenvolver com Kotlin. 
-<br/>.💻 Aluna da Digital House de Mobile Android.
+<br/>.💻 Aluna da UTFPR.
 
 "Quando o deixei, eu era só o aprendiz, agora eu sou o mestre." - Darth Vader 
 <hr/>
