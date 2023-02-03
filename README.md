@@ -5,3 +5,5 @@
 <br/>.🔭 I’m currently working on Ciandt. 
 <br/> 🌱 Programming languages: Kotlin and Java.
 <hr/>
+
+<h2/> "Quando o deixei, eu era só o aprendiz; agora eu sou o mestre." - Darth Vader
